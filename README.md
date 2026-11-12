@@ -20,5 +20,25 @@ An end-to-end data analytics project focused on evaluating operational efficienc
 
 ## Dashboard Pages
 1. **Executive Overview:** KPIs, request trends and overall efficiency.
-2. **# Operations-Efficiency-Analysis
-Operational performance analysis using MySQL and Power BI to identify process bottlenecks, SLA gaps and cost leakage.
+2. **Root Cause Analysis:** Departmental performance, process bottlenecks and cost drivers.
+3. **Business Recommendations:** Cost leakage, improvement opportunities and actionable recommendations.
+
+## Key Findings
+- Analysed 5,000 operational requests.
+- Overall SLA compliance: 71.94%.
+- Average processing time: 18.40 hours.
+- Identified Claims Processing as the lowest-performing department for SLA compliance.
+- Identified Process Errors as the highest rework cost category.
+
+## Project Deliverables
+- Raw dataset (CSV)
+- SQL analysis file
+- Interactive Power BI dashboard (PBIX)
+- Final project report (DOCX)
+- Dashboard screenshots
+
+## Business Recommendations
+- Strengthen data validation to reduce rework.
+- Improve SLA performance in underperforming departments.
+- Optimise workload allocation to control overtime.
+- Monitor operational KPIs regularly using Power BI.
